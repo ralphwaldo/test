@@ -1,3 +1,4 @@
 Some text
 Changed a bit
 Added line 3
+Made a conflicting change
